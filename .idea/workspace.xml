@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5f43d51-4fbe-4a85-a61b-4ffd4359637c" name="Default Changelist" comment="" />
+    <list default="true" id="d5f43d51-4fbe-4a85-a61b-4ffd4359637c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReferenceScopeGlobalAndLocal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,20 +20,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Oracle_Java_Certification_1_DataType/data_type/exampleOfPrimitime.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/defineDataWithliteral.java">
+        <entry file="file://$PROJECT_DIR$/src/ReferenceScopeGlobalAndLocal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="48" column="107" selection-start-line="48" selection-start-column="107" selection-end-line="48" selection-end-column="107" />
+            <state relative-caret-position="240">
+              <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+              <folding>
+                <element signature="e#315#316#0" expanded="true" />
+                <element signature="e#352#353#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -42,12 +42,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Oracle_Java_Certification_1_DataType/data_type/exampleOfPrimitime.java" />
         <option value="$PROJECT_DIR$/src/overviewDataType.java" />
         <option value="$PROJECT_DIR$/src/defineDataWithliteral.java" />
+        <option value="$PROJECT_DIR$/src/referencdScopeGlobalAndLocal.java" />
+        <option value="$PROJECT_DIR$/src/referenceScopeGlobalAndLocal.java" />
+        <option value="$PROJECT_DIR$/src/ReferenceScopeGlobalAndLocal.java" />
       </list>
     </option>
   </component>
@@ -57,6 +63,7 @@
     <option name="width" value="1280" />
     <option name="height" value="700" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -106,6 +113,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -122,7 +130,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.defineDataWithliteral">
+  <component name="RunManager" selected="Application.ReferenceScopeGlobalAndLocal">
+    <configuration name="ReferenceScopeGlobalAndLocal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReferenceScopeGlobalAndLocal" />
+      <module name="Oracle_Java_Certification" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="defineDataWithliteral" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="defineDataWithliteral" />
       <module name="Oracle_Java_Certification" />
@@ -139,6 +154,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReferenceScopeGlobalAndLocal" />
         <item itemvalue="Application.defineDataWithliteral" />
         <item itemvalue="Application.overviewDataType" />
       </list>
@@ -203,6 +219,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/defineDataWithliteral.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="48" column="107" selection-start-line="48" selection-start-column="107" selection-end-line="48" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Oracle_Java_Certification_1_DataType/data_type/exampleOfPrimitime.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -210,10 +233,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defineDataWithliteral.java">
+    <entry file="file://$PROJECT_DIR$/src/ReferenceScopeGlobalAndLocal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="48" column="107" selection-start-line="48" selection-start-column="107" selection-end-line="48" selection-end-column="107" />
+        <state relative-caret-position="240">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+          <folding>
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
